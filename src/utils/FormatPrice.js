@@ -1,7 +1,7 @@
-import React from "react";
+// import React from "react";
 
-function FormatPrice() {
-  return <div></div>;
-}
+// function FormatPrice() {
+//   return <div></div>;
+// }
 
-export default FormatPrice;
+// export default FormatPrice;
